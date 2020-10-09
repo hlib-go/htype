@@ -1,4 +1,4 @@
-module htime
+module htype
 
 go 1.14
 
