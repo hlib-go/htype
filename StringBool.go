@@ -1,4 +1,4 @@
-package hmtype
+package htype
 
 // 1=是 0=否
 type StringBool string

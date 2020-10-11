@@ -1,4 +1,4 @@
-package hmtype
+package htype
 
 import (
 	"encoding/json"
